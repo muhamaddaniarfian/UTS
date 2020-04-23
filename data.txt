@@ -1,0 +1,6 @@
+Data Pemantauan Covid19 wilayah Jawa Barat
+per 23-April-2020 02:14:33
+DEA NUGRAHA/171011401196
+
+Positif | Dirawat | Sembuh | Meninggal
+2902 | 1769 | 206 | 257
