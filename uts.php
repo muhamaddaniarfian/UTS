@@ -1,5 +1,6 @@
 <?php
 
+
 	$file = fopen("data.txt","r+");
 	
 	$nama = $_POST['nama'];
